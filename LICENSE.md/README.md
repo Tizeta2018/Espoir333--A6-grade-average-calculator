@@ -68,6 +68,5 @@ GPA calculator
 Weighted average calculator
 Standard deviation calculator
 Math Calculators
-
  
 Write how to improve this page
