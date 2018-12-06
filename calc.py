@@ -10,6 +10,7 @@ print("Dave grade average",round(avg,2))
 for i in range(0,n):
     elem=int(input("Enter Sara's grade: "))
     a.append(elem)
-avg=sum(a)/nround
-print("Sara's grade ave",(avg,2))
+avg=sum(a)/n
+print("Sara's grade average",round(avg,2))
+
 
