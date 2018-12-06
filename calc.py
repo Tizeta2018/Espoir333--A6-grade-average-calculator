@@ -1,1 +1,3 @@
-initial file for grade average calculation 
+
+n=int(input("Amount of grades entering?: "))
+a=[]
